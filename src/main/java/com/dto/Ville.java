@@ -13,6 +13,7 @@ import lombok.NoArgsConstructor;
 public class Ville {
 
 	private String codeCommune;
+	private String nomCommune;
 	
 	
 }

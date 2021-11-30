@@ -8,7 +8,7 @@ public class VilleDAOImpl implements VilleDAO{
 	public Ville findVille() {
 		Ville ville = new Ville();
 		ville.setCodeCommune("plop");
-		//ville.setNomCommune("plop");
+		ville.setNomCommune("plop");
 		
 		// TODO Auto-generated method stub
 		return ville;
